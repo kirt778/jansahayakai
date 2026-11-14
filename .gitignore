@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.pytest_cache/
+data_engine/raw_cache/
+Person1/data_engine/raw_cache/
+scheme_voice_agent_integrated.zip

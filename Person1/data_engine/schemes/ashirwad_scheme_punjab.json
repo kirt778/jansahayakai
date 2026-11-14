@@ -1,0 +1,35 @@
+{
+  "scheme_id": "ashirwad_scheme_punjab",
+  "scheme_name": "Ashirwad Scheme (Punjab State Scheme)",
+  "ministry": "Department of Social Justice, Empowerment and Minorities, Government of Punjab",
+  "state_specific": "Punjab",
+  "benefits_summary": "Financial assistance of ₹51,000 transferred directly via DBT for the marriage of daughters belonging to SC, BC, and economically weaker families in Punjab.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": null,
+    "allowed_genders": ["male", "female", "other"],
+    "allowed_states": ["Punjab"],
+    "allowed_occupations": ["All"],
+    "max_annual_income": 100000,
+    "allowed_categories": ["General", "OBC", "SC", "ST"],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Non-residents of Punjab",
+    "Families with annual income exceeding ₹1,00,000",
+    "More than two daughters per family"
+  ],
+  "documents_required": [
+    "Punjab Residence / Domicile Certificate",
+    "Caste or BPL Income Certificate",
+    "Age Proof of Bride (18 years or above)",
+    "Marriage Card and Bank Account Passbook"
+  ],
+  "application_steps": [
+    "Visit the nearest Sewa Kendra in Punjab or apply on the Dr. Ambedkar Portal (esz.punjab.gov.in).",
+    "Submit the application within 30 days before or after the marriage date along with income and domicile proofs.",
+    "Receive ₹51,000 directly into the beneficiary bank account via DBT after Tehsil Welfare Officer verification."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/as-pb",
+  "date_checked": "2026-11-14"
+}
